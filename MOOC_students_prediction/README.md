@@ -1,4 +1,4 @@
-# MOOC_students_prediction
+# MOOC Students Behavior Prediction
 
 ### Machine Learning test problem to predict whether a student will finish the course or not
 
