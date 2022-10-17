@@ -1,7 +1,7 @@
 # Machine Learning Projects
 
 
-### 1) [MOOC User Behaviour Prediction](/MOOC_students_prediction/README.md) - __Random Forest Logistic Regression__
+### 1) [MOOC User Behaviour Prediction](/MOOC_students_prediction/README.md) - __Logistic Regression with Random Forest__
    - Data Preprocessing
    - GridSearchCV
    - ROC-AUC score
