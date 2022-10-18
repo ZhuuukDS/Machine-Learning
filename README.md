@@ -1,6 +1,16 @@
 # Machine Learning Projects
 
-
+### 1) [Red Wine Quality Prediction](/red_wine_quality/README.md) - __Linear Regression with various models__
+   - Data Preprocessing
+   - EDA with Visualizations
+   - Multiple Linear Regression
+   - Ridge Regression
+   - Support Vector Regression
+   - Decision Tree Regression
+   - Random Forest Regression
+   - XGBoost
+<img src='red_wine_quality/data/wine_heatmap.png' width=350>
+   
 ### 1) [MOOC User Behaviour Prediction](/MOOC_students_prediction/README.md) - __Classification with Random Forest__
    - Data Preprocessing
    - GridSearchCV
