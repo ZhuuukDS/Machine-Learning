@@ -1,13 +1,13 @@
 # Machine Learning Projects
 
-### 1) [Fake News Detection](/fake_news/README.md) - __Machine Learning Classification__
+### 1) [Fake News Detection](/fake_news_detection/README.md) - __Machine Learning Classification__
    - Data Cleaning and Preprocessing
    - Natural Language Processing
    - Lemmatization
    - Tfidf Vectorization
    - Multinomial Naive Bayes Classifier
    - Classification Metrics
-<img src='fake_news_classification/data/fake_news.jpg' width=300>
+<img src='fake_news_detection/data/fake_news.jpg' width=300>
 
 ### 2) [Red Wine Quality Prediction](/red_wine_quality/README.md) - __Linear Regression with various models__
    - Data Preprocessing
