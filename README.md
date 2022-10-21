@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-### 1) [Fake News Classification](/fake_news/README.md) - __Machine Learning Classification__
+### 1) [Fake News Detection](/fake_news/README.md) - __Machine Learning Classification__
    - Data Cleaning and Preprocessing
    - Natural Language Processing
    - Lemmatization
