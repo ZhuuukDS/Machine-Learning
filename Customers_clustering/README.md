@@ -13,3 +13,5 @@ Although, this is quite an old model, __RFM analysis__ is still widely used toda
 And in this project I will take an idea of __RFM__ and utilize a __Unsupervised Machine Learning K-Means Clustering model__.
 
 <img src='rfm_plot.png' width=500>
+
+Check the <a href='rfm_kmeans.ipynb'>jupyter notebook</a> for this analysis
