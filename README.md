@@ -1,8 +1,7 @@
 # Machine Learning Projects
 
 ### 1) [Taxi Price Prediction](/taxi_price_prediction/README.md) - __Linear Regression__
-   - EDA
-   - Descriptive Analysis
+   - EDA, Descriptive Analysis
    - Data Preprocessing, Cleaning, Transformation
    - Weekly/daily/hourly patterns
    - Correlations
