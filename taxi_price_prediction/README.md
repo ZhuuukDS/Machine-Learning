@@ -5,4 +5,4 @@ The purpose of this project is to demonstrate various techniques for exploring a
 
 <img src='taxi_dataset/corr.png' width=600>
 
-Find [.ipynb](taxi_price_prediction/taxi_trips_analysis.ipynb), [.pdf](taxi_price_prediction/taxi_trips_analysis.pdf) and [.html](taxi_price_prediction/taxi_trips_analysis.html) versions
+Find the [.ipynb](taxi_trips_analysis.ipynb), [.pdf](taxi_trips_analysis.pdf) and [.html](taxi_trips_analysis.html) versions
