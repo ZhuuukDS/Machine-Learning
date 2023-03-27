@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-### 1) [Taxi Price Prediction](/taxi_price_prediction/README.md) - __Linear Regression__
+### 1) [Taxi Price Prediction](/taxi_price_prediction/taxi_trips_analysis.ipynb) - __Linear Regression__
    - EDA, Descriptive Analysis
    - Data Preprocessing, Cleaning, Transformation
    - Weekly/daily/hourly patterns
