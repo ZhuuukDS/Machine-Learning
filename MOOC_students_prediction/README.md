@@ -57,7 +57,7 @@ The aim is to find a set of parameters and features to maximize ROC-AUC score of
 
 Solution is in the [mooc_user_model.ipynb](reports/mooc_users_model.ipynb) file or [pdf](reports/mooc_users_model.pdf) version. 
 
-[RandomForest из sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) is used as a model.
+[RandomForest from sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) is used as a model.
 
 
 ### Project Strucuture
